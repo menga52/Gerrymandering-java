@@ -1,0 +1,25 @@
+fix utilities class
+*map generation class
+
+idea for new metrics: convexity, size uniformity
+*estimated using monte carlo
+
+
+create reference for utilities methods
+
+comment everything
+
+
+nondeterministic voting outcome
+
+testing
+
+write neighborhood search gerrymander
+write genetic gerrymander
+
+incorporate ScheduleExecutorService
+
+optimize parameters for a given instance
+writeup in latex
+
+Make Utilities not static?
